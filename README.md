@@ -21,18 +21,18 @@ Technology Stack:
 
 Captures:
 1. LOGIN Interface 
-![alt text](Screenshots/login_larry.png)
+![alt text](/Screenshots/login_larry.png)
 
 
 2. PARENT Interface (sample named Larry)
-![alt text](Screenshots/Assignment.png)
-![alt text](Screenshots/Dashboard.png)
-![alt text](Screenshots/mailbox.png)
+![alt text](/Screenshots/Assignment.png)
+![alt text](/Screenshots/Dashboard.png)
+![alt text](/Screenshots/mailbox.png)
 
 3. Child Interface (sample named Boa)
-![alt text](Screenshots/Assignment_child.png)
-![alt text](Screenshots/Dashboard_child.png)
-![alt text](Screenshots/mailbox_child.png)
+![alt text](/Screenshots/Assignment_child.png)
+![alt text](/Screenshots/Dashboard_child.png)
+![alt text](/Screenshots/mailbox_child.png)
 
 
 Installation
