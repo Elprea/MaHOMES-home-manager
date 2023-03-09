@@ -32,7 +32,7 @@ Captures:
 3. Child Interface (sample named Boa)
 ![alt text](/Screenshots/Assignment_child.PNG)
 ![alt text](/Screenshots/Dashboard_child.PNG)
-![alt text](/Screenshots/mailbox_child.PNG)
+![alt text](/Screenshots/Mailbox_child.PNG)
 
 
 Installation
