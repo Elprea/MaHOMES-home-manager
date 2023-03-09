@@ -1,27 +1,30 @@
-Home Management Application
+# Home Management Application
+
 
 This home management application is designed to simplify the task of managing household chores and assigning them to children while keeping track of the rewards given for each completed task. It provides a platform for both parents and children to interact with each other and stay updated on their tasks and rewards.
 Features
 
-Parent users can:
+### Parent users can:
+
 - Create and manage household chores
 - Assign tasks to their children
 - Provide rewards for completed tasks
 - Interact with their children through the chat system
 
-Child users can:
+### Child users can:
+
 - View their assigned tasks and their rewards
 - Mark their completed tasks as done
 - Communicate with their parents through the chat system
 
-Technology Stack:
+## Technology Stack:
 - Python programming language
 - tkinter for GUI integration
 - SQL database (sqlite3)
 
-Captures:
+## Captures:
 1. LOGIN Interface 
-![alt text](/Screenshots/login_larry.PNG)
+- ![alt text](/Screenshots/login_larry.PNG)
 
 
 2. PARENT Interface (sample named Larry)
@@ -35,7 +38,7 @@ Captures:
 ![alt text](/Screenshots/Mailbox_child.PNG)
 
 
-Installation
+## Installation:
 1. Clone the repository to your local machine:
 
 * git clone https://github.com/Elprea/MaHOMES-home-manager.git
