@@ -1,0 +1,27 @@
+
+
+
+
+LOGIN GUI CONNECT TO DB - working
+REGISTER CONNECT TO DB - ** go back later to verify user duplicate **
+
+child main - working
+parent main - next
+
+
+add occurence in db
+
+(parent/child) alert shows what is happening i.e child finish task, user have new message
+
+
+
+To do:	check for parent id, child id, username existence
+	insert all relationships in register
+
+
+
+errors:
+childID values in register should have value on the ones before them before reading the value
+	meaning: childID_2 can't be read by program without value in childID_1 
+
+if row deleted in tables, the alignment in rowid gets destroyed. 
