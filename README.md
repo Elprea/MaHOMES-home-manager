@@ -23,7 +23,7 @@ This home management application is designed to simplify the task of managing ho
 - tkinter for GUI integration
 - SQL database (sqlite3)
 
-## Captures:
+## Captures
 1. LOGIN Interface 
 - ![alt text](/Screenshots/login_larry.PNG)
 
