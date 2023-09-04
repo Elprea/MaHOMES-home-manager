@@ -3,7 +3,7 @@
 
 This home management application is designed to simplify the task of managing household chores and assigning them to children while keeping track of the rewards given for each completed task. It provides a platform for both parents and children to interact with each other and stay updated on their tasks and rewards.
 
-#### Features:
+# Features:
 
 ### Parent users can:
 
